@@ -36,7 +36,7 @@ Skill 的仓库路径是 `gensop`。使用官方安装器时，对应参数为�
 
 ## English Version
 
-GenSOP is a Codex Skill designed to work with SOPower. It turns a natural-language request into a timed SOP with steps, durations, and optional tags. It shows a complete preview first and exports one SOPower-compatible `.sop.json` Share file only after the user explicitly confirms the current preview.
+GenSOP is a Skill designed to work with SOPower. It turns a natural-language request into a timed SOP with steps, durations, and optional tags. It shows a complete preview first and exports one SOPower-compatible `.sop.json` file only after the user explicitly confirms the current preview.
 
 ### Installation
 
