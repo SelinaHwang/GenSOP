@@ -1,11 +1,6 @@
 ---
-name: GenSOP
-display_name: GenSOP
+name: gensop
 description: Generate a timed SOP from a natural-language request, show a validated preview, and export one SOPower .sop.json file only after explicit user confirmation. Use for SOPower SOP creation or import-file export; do not use for full backups or template files.
-description_zh: 根据自然语言生成定时 SOP，经用户确认后导出 SOPower 可导入文件。
-description_en: Generate a timed SOP and export a SOPower file after explicit confirmation.
-version: 0.3.0
-author: GenSOP Project
 ---
 
 # GenSOP
